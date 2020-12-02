@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* Banner*/
+.profile-picture{
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+    background-image: url("https://scontent.fmex16-1.fna.fbcdn.net/v/t1.0-9/12189704_10206124893299041_8793237470276800781_n.jpg?_nc_cat=102&ccb=2&_nc_sid=174925&_nc_eui2=AeEpPUu25LE_HvLBPBT3shSEAQo9xKZV6WgBCj3EplXpaAeXFsseRG_rrOQYfQXV9jc&_nc_ohc=eAVm2-ua3QUAX98K-Tn&_nc_oc=AQladRFaA_B5SHN2UCZFIu1H3vz_xwtNmEyjhfPC12a358OPdfBz_wmVMwtXq76aZTI&_nc_ht=scontent.fmex16-1.fna&oh=e6b4d9952c24b22e16adc74987c75221&oe=5FE77D9F");
+    background-size: 100% 100%;
+    background-position: center;
+    border-radius: 50%;
+    margin: auto;
+}
+.primary-button{
+background-color: rgb(33, 59, 204);
+color: white;
+padding: 8px, 15px;
+}
+.primary.text{
+    color: rgb(138, 1, 115)
+}
+.center-text{
+    text-align: center;
+}
+.space-top{
+    margin-top: 10px;
+}
